@@ -20,7 +20,7 @@ const headerStyle={
 
 const pageLink={
     color:'white',
-
+    textDecoration:'none'
 }
 
 export default Header
